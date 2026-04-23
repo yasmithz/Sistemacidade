@@ -1,4 +1,4 @@
-Visão Geral | Overview
+Visão Geral 
 PT-BR: O Sistema Cidade é um projeto acadêmico que tem como objetivo modelar uma cidade utilizando conceitos de Engenharia de Software, com foco em modularidade, reusabilidade e organização de sistemas .
 
 O projeto utiliza uma analogia com peças de LEGO, onde cada elemento da cidade (como casas, estradas, hospitais e pontes) representa componentes reutilizáveis ​​e bem estruturados dentro de um sistema.
